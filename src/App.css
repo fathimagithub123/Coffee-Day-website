@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+box-shadow: orange;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+}
+.me-auto{
+ margin-left: auto;
+  display: inline-block;
+  gap: 4rem;
+
+}
+p{
+  box-sizing: border-box;
+  margin: 10px;
+  border: 10px;
+ color: orange;
+ align-items: center;
+ justify-content: center;
+}
+.cards{
+  
+ gap: 1rem;
+
+}
